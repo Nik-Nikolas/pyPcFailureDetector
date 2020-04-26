@@ -1,4 +1,1 @@
-This program simulates work of computer machine
-and faulure event in one of subsystems
-for estimation failure event detection probability
-in every subsystem.
+This program simulates work of the computer machine and failure event in one of subsystems and estimates the failure event detection probability 
